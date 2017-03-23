@@ -1,0 +1,12 @@
+S:\wrk\ADDL\ADDL\bin\Debug\ADDL.exe.config
+S:\wrk\ADDL\ADDL\bin\Debug\ADDL.exe
+S:\wrk\ADDL\ADDL\bin\Debug\ADDL.pdb
+S:\wrk\ADDL\ADDL\obj\Debug\ADDL.csprojResolveAssemblyReference.cache
+S:\wrk\ADDL\ADDL\obj\Debug\ADDL.exe
+S:\wrk\ADDL\ADDL\obj\Debug\ADDL.pdb
+S:\wrk\MyProjects\ADDL\ADDL\bin\Debug\ADDL.exe.config
+S:\wrk\MyProjects\ADDL\ADDL\obj\Debug\ADDL.exe
+S:\wrk\MyProjects\ADDL\ADDL\obj\Debug\ADDL.pdb
+S:\wrk\MyProjects\ADDL\ADDL\obj\Debug\ADDL.csprojResolveAssemblyReference.cache
+S:\wrk\MyProjects\ADDL\ADDL\bin\Debug\ADDL.exe
+S:\wrk\MyProjects\ADDL\ADDL\bin\Debug\ADDL.pdb
